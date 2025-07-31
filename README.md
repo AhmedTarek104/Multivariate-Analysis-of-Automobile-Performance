@@ -1,1 +1,2 @@
-# Multivariate-Analysis-of-Automobile-Performance
+This project applies classical Multidimensional Scaling (MDS) and Principal Component Analysis (PCA) to the mtcars dataset to visualize and interpret multivariate relationships. Data was first standardized, and pairwise Euclidean distances were calculated. PCA was used to understand variance contribution and scree plots. MDS reduced the high-dimensional space to 2D for visualization. Results were enriched with cluster analysis (hierarchical clustering) to highlight similar model groupings.
+📊 Final plots distinguish transmission type, cylinder count, and clusters among cars, offering insight into performance characteristics.
